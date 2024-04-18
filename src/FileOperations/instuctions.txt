@@ -1,0 +1,10 @@
+The file management folder contains files necessary for handling Create, Read,
+Write, and Delete operations on files in Java.
+
+Explore files in the order:
+
+1. CreateFile
+2. WriteFile
+3. ReadFile
+4. GetFileInfo
+5. Delete file
